@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos ardientes
+
+This log tracks the cryptographic history and versioning for the song **Ojos ardientes** (ojos-ardientes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:17:38.844467 | `v1` | `` | `207f9381380339f46c0326e8ef9099a458bcacc9dde917cd6cfd9e96fa6d88e1` | `2026-06-17_ojos-ardientes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
